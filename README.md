@@ -27,7 +27,7 @@
 2. Clone the repository:
 
    ```bash
-   git clone https://github.com/bravelab/sta-converter.git
+   git clone https://github.com/musictechlab/sta-converter.git
    cd sta-converter
    ```
 
@@ -67,5 +67,5 @@ This project is licensed under the MIT License.
 
 ## Author
 
-Developed by Mariusz Smenżyk. You can reach out to me at mariusz@bravelab.io.
+Developed by Mariusz Smenżyk. You can reach out to me at mariusz.smenzyk@musictechlab.io.
 # sta-converter
