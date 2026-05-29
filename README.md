@@ -1,6 +1,8 @@
 
 # sta-converter
 
+[![Built by MusicTech Lab](https://musictechlab.io/oss/build-by-musictechlab.io.svg)](https://musictechlab.io)
+
 `sta-converter` is a command-line tool for converting `.sta` bank statement files (MT940 format) to CSV format and merging multiple CSVs into one for easier financial analysis and reporting.
 
 ## Features
@@ -46,7 +48,6 @@ To convert `.sta` files into CSV files, use the following command:
 ```bash
 poetry run sta_converter <input_dir> <merged_output_file>
 ```
-
 
 - **Install Dependencies**:
 
